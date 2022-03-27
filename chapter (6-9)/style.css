@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: b;
+    }
+    
+    
+    table{
+    background-color: rebeccapurple;
+    color: green;
+    text-align: center;
+    width: 470px;
+    }
+    
+    
+    td{
+    width: 470px;
+    border: none;
+    font-size: 20px;
+    color: greenyellow;
+    font-family: free-sans;
+    }
+    
+    td:hover{
+    border:4px solid rgb(130, 210, 221);
+    }
+    
+    td:active{
+    border:5px solid purple;
+    }
